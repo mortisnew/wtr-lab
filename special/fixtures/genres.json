@@ -1,0 +1,282 @@
+[
+  {
+    "model": "special.genre",
+    "pk": 1,
+    "fields": {
+      "name": "Action"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 2,
+    "fields": {
+      "name": "Adult"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 3,
+    "fields": {
+      "name": "Adventure"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 4,
+    "fields": {
+      "name": "Comedy"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 5,
+    "fields": {
+      "name": "Drama"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 6,
+    "fields": {
+      "name": "Ecchi"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 7,
+    "fields": {
+      "name": "Erciyuan"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 8,
+    "fields": {
+      "name": "Fan-Fiction"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 9,
+    "fields": {
+      "name": "Fantasy"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 10,
+    "fields": {
+      "name": "Game"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 11,
+    "fields": {
+      "name": "Gender-Bender"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 12,
+    "fields": {
+      "name": "Harem"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 13,
+    "fields": {
+      "name": "Historical"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 14,
+    "fields": {
+      "name": "Horror"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 15,
+    "fields": {
+      "name": "Josei"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 16,
+    "fields": {
+      "name": "Martial-Arts"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 17,
+    "fields": {
+      "name": "Mature"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 18,
+    "fields": {
+      "name": "Mecha"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 19,
+    "fields": {
+      "name": "Military"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 20,
+    "fields": {
+      "name": "Mystery"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 21,
+    "fields": {
+      "name": "Psychological"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 22,
+    "fields": {
+      "name": "Romance"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 23,
+    "fields": {
+      "name": "School-Life"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 24,
+    "fields": {
+      "name": "Sci-Fi"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 25,
+    "fields": {
+      "name": "Seinen"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 26,
+    "fields": {
+      "name": "Shoujo"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 27,
+    "fields": {
+      "name": "Shoujo-Ai"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 28,
+    "fields": {
+      "name": "Shounen"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 29,
+    "fields": {
+      "name": "Shounen-Ai"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 30,
+    "fields": {
+      "name": "Slice-of-Life"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 31,
+    "fields": {
+      "name": "Smut"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 32,
+    "fields": {
+      "name": "Sports"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 33,
+    "fields": {
+      "name": "Supernatural"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 34,
+    "fields": {
+      "name": "Tragedy"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 35,
+    "fields": {
+      "name": "Urban-Life"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 36,
+    "fields": {
+      "name": "Wuxia"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 37,
+    "fields": {
+      "name": "Xianxia"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 38,
+    "fields": {
+      "name": "Xuanhuan"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 39,
+    "fields": {
+      "name": "Yaoi"
+    }
+  },
+  {
+    "model": "special.genre",
+    "pk": 40,
+    "fields": {
+      "name": "Yuri"
+    }
+  }
+]

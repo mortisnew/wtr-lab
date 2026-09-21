@@ -1,0 +1,7106 @@
+[
+  {
+    "model": "special.tags",
+    "pk": 417,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Male Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 122,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Cheats"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 717,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Transmigration"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 667,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Special Abilities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 696,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "System"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 134,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Clever Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 555,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Proactive Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 197,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Determined Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 750,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Weak to Strong"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 731,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Underestimated Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 446,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Modern Day"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 111,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Calm Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 265,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Fantasy World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 297,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Game Elements"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 342,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Hiding True Abilities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 547,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Pragmatic Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 506,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Overpowered Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 447,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Modern Knowledge"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 692,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Survival"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 81,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Beautiful Female Lead"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 169,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Cultivation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 611,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Secretive Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 452,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Monsters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 275,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Female Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 721,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Transported to Another World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 146,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Comedic Undertone"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 601,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Schemes And Conspiracies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 306,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Genius Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 410,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Magic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 515,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Past Plays a Big Role"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 327,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Handsome Male Lead"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 687,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Sudden Strength Gain"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 171,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Cunning Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 612,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Secrets"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 715,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Tragic Past"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 751,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Wealthy Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 595,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Ruthless Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 181,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Dark"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 329,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Harem-seeking Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 585,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Revenge"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 432,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Mature Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 328,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Hard-Working Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 540,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Poor to Rich"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 268,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Fast Learner"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 390,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Level System"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 560,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Protagonist Strong from the Start"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 756,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "World Hopping"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 257,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Family"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 680,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Strength-based Social Hierarchy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 118,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Character Growth"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 578,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reincarnation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 166,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Crossover"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 539,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Poor Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 829,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reborn"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 30,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Alternate World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 459,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Multiple Realms"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 546,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Power Struggle"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 5,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Academy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 43,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Antihero Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 485,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Nobles"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 83,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Betrayal"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 316,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Gods"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 47,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Apocalypse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 343,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Hiding True Identity"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 150,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Confident Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 536,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Politics"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 193,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Depictions of Cruelty"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 608,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Secret Identity"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 125,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Child Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 315,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Godly Powers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 108,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Business Management"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 630,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Shameless Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 115,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Caring Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 388,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Leadership"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 407,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Low-key Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 500,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Orphans"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 577,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reincarnated in Another World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 34,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Ancient China"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 710,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Time Travel"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 74,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Based on an Anime"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 688,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Sudden Wealth"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 51,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Aristocracy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 259,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Family Conflict"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 594,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Royalty"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 379,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Kingdom Building"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 748,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Wars"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 255,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Familial Love"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 442,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Misunderstandings"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 120,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Charming Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 437,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Military"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 695,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Sword Wielder"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 191,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Demons"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 294,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Futuristic Setting"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 80,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Beasts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 409,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Lucky Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 58,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Artifacts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 682,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Strong to Stronger"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 757,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "World Travel"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 420,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Management"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 640,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Showbiz"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 357,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Immortals"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 248,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Evolution"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 606,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Second Chance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 787,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Single Female Lead"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 414,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Magical Space"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 116,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Cautious Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 267,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Fast Cultivation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 802,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Territory Management"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 266,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Farming"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 35,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Ancient Times"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 551,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Previous Life Talent"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 592,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Romantic Subplot"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 769,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Ninja World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 544,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Post-apocalyptic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 117,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Celebrities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 422,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Manipulative Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 830,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Reality-Game Fusion"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 600,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Saving the World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 772,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Soul Land"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 56,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Arrogant Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 54,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Army Building"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 109,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Businessmen"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 782,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Live Streaming"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 471,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Mystery Solving"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 78,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Beast Companions"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 732,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Unique Cultivation Technique"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 679,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Strategist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 505,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Outer Space"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 216,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Dragons"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 261,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Famous Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 93,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Bloodlines"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 831,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reborn as the Villain"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 448,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Money Grubber"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 72,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Based on a Video Game"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 486,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Non-humanoid Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 142,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Cold Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 341,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Hidden Abilities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 818,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Collapse World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 510,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Parallel Worlds"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 364,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Inheritance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 699,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Technological Gap"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 616,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Selfish Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 198,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Devoted Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 225,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Early Romance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 426,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Martial Spirits"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 147,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Coming of Age"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 644,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Siblings"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 428,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Master-Disciple Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 144,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "College/University"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 473,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Mythology"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 211,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Doting Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 765,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Zombies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 246,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Evil Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 418,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Male to Female"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 114,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Carefree Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 368,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Interdimensional Travel"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 307,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Ghosts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 408,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Loyal Subordinates"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 264,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Fantasy Creatures"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 797,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Devouring"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 387,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Lazy Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 95,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Body Tempering"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 476,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Nationalism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 735,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Unlimited Flow"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 27,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Alchemy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 767,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Pirates"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 681,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Strong Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 424,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Marriage"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 455,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Multiple Identities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 7,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Acting"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 87,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Black Belly"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 127,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Childhood Friends"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 251,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Eye Powers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 803,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Heaven Defying Comprehension"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 184,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Death of Loved Ones"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 162,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Crafting"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 55,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Arranged Marriage"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 235,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Empires"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 291,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Friendship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 694,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Sword And Magic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 520,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Pets"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 227,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Easy Going Life"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 693,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Survival Game"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 433,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Medical Knowledge"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 154,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Cooking"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 823,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Lord"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 755,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Wizards"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 126,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Childcare"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 333,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Heartwarming"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 543,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Possessive Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 403,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Love Interest Falls in Love First"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 221,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Dungeons"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 811,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Sign In"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 163,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Crime"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 411,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Magic Beasts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 781,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Gao Wu"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 141,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Cold Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 465,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Mutated Creatures"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 28,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Aliens"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 766,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Comic Universe"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 827,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Class Awakening"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 788,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Western Names"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 828,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Spiritual Energy Revival"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 199,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Different Social Status"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 760,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Yandere"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 243,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "European Ambience"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 484,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Ninjas"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 397,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Loner Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 719,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Transported into a Game World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 148,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Complex Family Relationships"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 470,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Mysterious Past"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 451,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Monster Tamer"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 659,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Slow Romance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 716,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Transformation Ability"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 691,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Summoning Magic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 793,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Proficiency"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 771,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Pocket Monsters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 538,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Polygamy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 278,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Firearms"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 175,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Cute Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 675,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Store Owner"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 208,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Doctors"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 299,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Gamers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 591,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Rivalry"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 742,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Virtual Reality"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 513,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Parody"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 75,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Battle Academy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 312,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "God Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 815,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Element World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 48,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Appearance Changes"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 59,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Artificial Intelligence"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 759,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Writers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 549,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Pregnancy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 119,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Charismatic Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 662,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Soldiers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 183,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Death"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 318,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Gore"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 603,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Scientists"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 658,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Slow Growth at Start"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 462,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Multiple Transported Individuals"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 380,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Kingdoms"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 490,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Obsessive Love"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 174,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Cute Children"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 121,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Chat Rooms"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 362,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Industrialization"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 370,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Investigations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 244,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Evil Gods"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 457,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Multiple POV"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 789,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Dark Fantasy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 678,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Strategic Battles"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 519,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Perverted Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 534,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Police"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 167,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Cruel Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 458,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Multiple Protagonists"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 6,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Accelerated Growth"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 179,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Dao Comprehension"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 786,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Simulator"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 4,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Abusive Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 516,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Past Trauma"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 2,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Ability Steal"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 132,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Clan Building"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 531,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Playful Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 492,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Older Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 709,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Time Skip"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 768,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Magic Academy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 71,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Based on a TV Show"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 245,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Evil Organizations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 609,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Secret Organizations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 53,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Army"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 545,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Power Couple"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 663,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Soul Power"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 339,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Heroes"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 464,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Music"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 76,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Battle Competition"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 213,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Doting Parents"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 22,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Adventurers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 527,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Pill Concocting"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 801,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Honghuang"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 825,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "More Children More Blessings"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 613,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Sect Development"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 237,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Enemies Become Lovers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 665,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Spatial Manipulation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 749,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Weak Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 195,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Destiny"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 395,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Loli"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 103,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Broken Engagement"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 434,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Medieval"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 586,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Reverse Harem"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 472,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Mythical Beasts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 529,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Pirates"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 232,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Elemental Magic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 304,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Genetic Modifications"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 590,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Righteous Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 804,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Detective World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 698,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Teamwork"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 415,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Magical Technology"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 358,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Imperial Harem"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 574,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reincarnated as a Monster"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 541,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Popular Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 707,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Time Manipulation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 776,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Sorcerer World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 196,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Detectives"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 228,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Economics"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 824,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Life Script"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 474,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Naive Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 156,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Cosmic Wars"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 498,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Organized Crime"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 381,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Knights"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 468,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Mysterious Family Background"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 233,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Elves"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 570,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Racism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 180,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Daoism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 61,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Assassins"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 140,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Cohabitation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 820,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Siheyuan"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 775,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "War Tabletop World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 501,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Otaku"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 812,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Demon Hunting World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 844,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Nasuverse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 664,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Souls"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 697,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Teachers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 453,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Movies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 332,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Healers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 301,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Gate to Another World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 136,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Clones"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 188,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Demi-Humans"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 349,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Human Experimentation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 646,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Sickly Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 31,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Amnesia"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 463,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Murders"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 24,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Age Progression"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 718,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Transplanted Memories"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 298,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Game Ranking System"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 671,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Spirits"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 153,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Contracts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 561,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Protagonist with Multiple Bodies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 46,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Apathetic Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 429,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Master-Servant Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 107,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Bullying"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 443,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "MMORPG"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 773,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Dragon World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 648,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Singers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 165,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Cross-dressing"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 792,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Mortal Flow"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 832,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Heavenly Flame World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 159,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Court Official"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 254,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Fallen Nobility"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 185,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Debts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 226,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Earth Invasion"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 849,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Immortal Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 740,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Vampires"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 280,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "First-time Intercourse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 176,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Cute Story"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 300,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Gangs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 780,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Football"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 583,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Resurrection"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 57,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Artifact Crafting"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 337,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Helpful Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 207,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Divorce"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 205,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Divination"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 330,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Harsh Training"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 351,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Human-Nonhuman Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 770,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Soul Reaper World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 135,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Clingy Lover"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 466,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Mutations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 784,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Game Creator"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 39,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Animal Characteristics"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 778,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Comic Universe"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 331,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Hated Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 629,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Sexual Cultivation Technique"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 562,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Psychic Powers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 477,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Near-Death Experience"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 633,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Sharp-tongued Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 402,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Love at First Sight"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 201,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Discrimination"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 435,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Mercenaries"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 20,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Adopted Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 164,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Criminals"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 69,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Based on a Movie"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 725,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Tsundere"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 113,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Card Games"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 833,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Operator World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 419,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Male Yandere"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 425,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Marriage of Convenience"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 314,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Goddesses"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 38,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Angels"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 548,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Precognition"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 353,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Hunters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 123,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Chefs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 706,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Time Loop"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 348,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Hot-blooded Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 785,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Cosmic Star World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 615,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Seeing Things Other Humans Can't"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 809,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Basketball"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 618,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Seme Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 189,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Demon Lord"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 284,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Forced into a Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 754,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Witches"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 212,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Doting Older Siblings"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 764,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Younger Sisters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 871,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Behind-the-Scenes Mastermind"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 272,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Fearless Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 660,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Smart Couple"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 352,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Humanoid Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 800,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Immortal Pantheon World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 518,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Personality Changes"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 460,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Multiple Reincarnated Individuals"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 105,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Brotherhood"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 436,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Merchants"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 239,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Engineer"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 580,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reluctant Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 444,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Mob Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 843,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Kamen Rider"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 279,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "First Love"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 573,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Rebellion"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 190,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Demonic Cultivation Technique"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 669,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Spirit Advisor"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 303,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Generals"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 224,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "e-Sports"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 791,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Champion Arena World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 3,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Absent Parents"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 217,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Dreams"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 373,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Jealousy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 478,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Necromancer"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 838,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Giant Hero World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 223,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Dystopia"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 734,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Unique Weapons"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 128,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Childhood Love"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 656,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Slaves"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 705,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Thriller"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 412,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Magic Formations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 726,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Twins"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 383,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Lack of Common Sense"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 49,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Appearance Different from Actual Age"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 806,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Business Wars"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 638,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Shoujo-Ai Subplot"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 289,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Fox Spirits"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 258,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Family Business"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 385,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Late Romance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 192,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Dense Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 584,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Returning from Another World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 807,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Copy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 493,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Omegaverse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 404,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Love Rivals"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 795,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Three Kingdoms"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 401,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Lottery"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 416,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Maids"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 200,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Disabilities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 394,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Living Alone"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 571,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Rape"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 632,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Sharing A Body"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 461,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Multiple Timelines"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 79,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Beastkin"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 8,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted from Manga"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 1,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Abandoned Children"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 413,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Magical Girls"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 566,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Quirky Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 230,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Eidetic Memory"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 533,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Poisons"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 68,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Bands"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 100,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Boss-Subordinate Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 666,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Spear Wielder"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 623,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Servants"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 517,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Persistent Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 796,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Journey to the West"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 335,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Heavenly Tribulation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 389,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Legends"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 84,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Bickering Couple"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 50,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Archery"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 15,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Manhua"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 60,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Artists"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 651,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Skill Assimilation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 799,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Mystic Path Saga"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 542,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Possession"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 392,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Limited Lifespan"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 286,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Forced Marriage"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 25,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Age Regression"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 736,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Unlucky Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 405,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Love Triangles"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 210,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Domestic Affairs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 861,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Qing Transmigration"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 151,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Confinement"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 813,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Ice and Fire Saga"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 645,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Siblings Not Related by Blood"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 763,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Younger Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 605,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Sealed Power"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 271,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Fated Lovers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 842,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Simultaneous Transmigration"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 685,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Student-Teacher Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 837,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Punch Hero World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 889,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Collapse World Star Rails"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 40,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Animal Rearing"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 579,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Religions"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 686,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Succubus"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 794,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Tabletop RPG World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 653,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Skill Creation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 563,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Psychopaths"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 26,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Aggressive Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 576,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Reincarnated in a Game World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 836,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Vigilante Squad"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 37,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Androids"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 841,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Daily Intelligence"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 668,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Spies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 554,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Prison"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 568,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "R-18"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 323,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Gunfighters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 598,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Salaryman"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 155,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Corruption"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 372,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Jack of All Trades"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 158,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Couple Growth"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 274,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Female Master"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 557,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Prophecies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 738,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Unrequited Love"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 454,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Mpreg"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 639,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Shounen-Ai Subplot"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 814,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Guild World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 741,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Villainess Noble Girls"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 322,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Guilds"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 98,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Books"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 431,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Matriarchy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 701,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Terminal Illness"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 406,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Lovers Reunited"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 456,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Multiple Personalities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 790,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Block World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 45,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Apartment Life"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 396,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Loneliness"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 777,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Hunter World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 661,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Social Outcasts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 378,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Kind Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 753,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Wishes"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 222,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Dwarfs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 247,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Evil Religions"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 723,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Tribal Society"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 324,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Hackers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 449,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Monster Girls"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 649,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Single Parent"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 810,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Undead Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 779,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Hollywood"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 241,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Episodic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 366,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Insects"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 347,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Hospital"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 336,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Hell"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 559,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Protagonist Falls in Love First"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 250,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Exorcism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 774,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Card Duel World!"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 320,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Grinding"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 260,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Famous Parents"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 350,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Human Weapon"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 607,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Secret Crush"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 106,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Buddhism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 643,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Sibling's Care"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 65,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Average-looking Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 209,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Dolls/Puppets"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 834,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Race Girl World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 845,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Versatile Mage"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 526,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Pill Based Cultivation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 730,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Unconditional Love"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 482,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Netori"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 610,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Secret Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 835,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Steampunk"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 727,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Twisted Personality"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 89,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Blacksmith"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 334,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Heaven"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 11,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Drama"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 867,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Zenless Zone Zero"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 231,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Elderly Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 530,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Playboys"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 495,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Online Romance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 497,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Orcs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 614,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Seduction"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 858,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Project Moon"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 94,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Body Swap"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 311,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Goblins"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 556,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Programmer"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 880,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1970s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 689,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Suicides"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 524,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Phoenixes"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 854,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Classroom of the Elite"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 535,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Polite Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 597,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Saints"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 338,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Herbalist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 439,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Mind Control"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 641,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Shy Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 36,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Androgynous Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 369,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Introverted Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 856,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Resident Evil"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 783,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Neon Future World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 19,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Adopted Children"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 377,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Kidnappings"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 161,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Cowardly Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 325,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Half-human Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 733,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Unique Weapon User"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 240,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Enlightenment"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 97,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Bodyguards"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 131,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Chuunibyou"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 173,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Curses"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 582,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Restaurant"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 236,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Enemies Become Allies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 238,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Engagement"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 650,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Sister Complex"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 21,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Adultery"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 620,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Sentient Objects"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 826,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Undead King World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 840,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Dungeon Adventure World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 655,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Slave Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 305,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Genies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 729,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Ugly to Beautiful"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 537,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Polyandry"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 572,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Rape Victim Becomes Lover"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 398,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Long Separations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 206,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Divine Protection"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 593,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Roommates"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 851,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Digital Monster World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 282,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Fleet Battles"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 283,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Folklore"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 859,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "JoJo’s Bizarre Adventure"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 149,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Conditional Power"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 703,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Thieves"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 708,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Time Paradox"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 157,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Cosplay"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 553,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Priests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 355,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Identity Crisis"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 475,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Narcissistic Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 642,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Sibling Rivalry"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 690,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Summoned Hero"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 847,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Highschool DxD"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 393,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Living Abroad"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 234,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Emotionally Weak Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 704,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Threesome"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 674,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Stoic Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 670,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Spirit Users"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 124,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Child Abuse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 821,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Hong Kong"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 386,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Lawyers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 822,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Array"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 400,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Lost Civilizations"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 507,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Overprotective Siblings"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 631,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Shapeshifters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 883,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "2000s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 269,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Fat Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 589,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Rich to Poor"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 296,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Gambling"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 277,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Feng Shui"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 870,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Slay the Gods"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 256,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Familiars"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 491,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Office Romance"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 798,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Eavesdropping"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 711,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Timid Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 752,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Werebeasts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 522,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Philosophical"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 359,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Incest"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 617,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Selfless Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 762,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Younger Brothers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 758,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "World Tree"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 627,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Sex Slaves"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 220,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Dungeon Master"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 313,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "God-human Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 10,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Anime"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 528,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Pilots"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 857,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Touhou Project"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 172,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Curious Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 270,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Fat to Fit"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 194,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Depression"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 285,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Forced Living Arrangements"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 808,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Faith Dependent Deities"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 514,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Part-Time Job"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 104,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Brother Complex"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 186,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Delinquents"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 852,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "The Walking Dead"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 713,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Torture"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 575,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Reincarnated as an Object"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 178,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Dao Companion"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 881,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1980s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 91,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Blind Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 139,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Co-Workers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 88,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Blackmail"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 421,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Mangaka"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 346,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Honest Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 565,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Quiet Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 850,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Toaru"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 683,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Stubborn Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 622,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Serial Killers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 761,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Youkai"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 521,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Pharmacist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 882,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1990s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 92,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Blood Manipulation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 587,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Reverse Rape"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 365,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Inscriptions"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 85,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Biochip"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 112,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Cannibalism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 340,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Heterochromia"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 596,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Sadistic Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 886,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Food Wars!"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 621,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Sentimental Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 569,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Race Change"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 700,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Tentacles"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 218,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Drugs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 848,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Furry Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 321,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Guardian Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 865,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Hikigaya"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 276,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Female to Male"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 14,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Manga"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 130,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Childish Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 42,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Anti-social Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 628,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Sexual Abuse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 252,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Fairies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 550,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Pretend Lovers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 281,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Flashbacks"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 242,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Eunuch"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 52,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Arms Dealers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 884,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "2010s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 354,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Hypnotism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 879,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1960s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 724,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Trickster"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 816,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Journey Mage World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 215,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Dragon Slayers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 878,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1950s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 652,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Skill Books"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 819,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Monster Slayer Saga"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 885,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Blue Archive"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 23,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Affair"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 182,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Dead Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 371,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Invisibility"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 747,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "War Records"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 67,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Awkward Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 423,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Manly Gay Couple"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 532,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Poetry"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 567,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "R-15"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 214,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Dragon Riders"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 382,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Kuudere"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 427,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Masochistic Characters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 273,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Fellatio"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 720,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Transported Modern Structure"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 672,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Stalkers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 90,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Blind Dates"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 624,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Seven Deadly Sins"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 101,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Brainwashing"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 13,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Game"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 654,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Slave Harem"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 203,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Dishonest Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 712,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Tomboyish Female Lead"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 888,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Monster Hunter"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 864,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "King's Avatar"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 17,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Movie"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 219,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Druids"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 204,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Distrustful Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 722,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Trap"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 480,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Netorare"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 262,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Fanaticism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 737,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Unreliable Narrator"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 310,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Glasses-wearing Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 129,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Childhood Promise"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 384,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Language Barrier"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 483,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Nightmares"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 467,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Mute Character"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 138,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Clumsy Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 890,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "System Misunderstanding"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 450,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Monster Society"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 860,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Machinist "
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 564,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Puppeteers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 160,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Cousins"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 44,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Antique Shop"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 637,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Shota"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 137,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Clubs"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 599,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Samurai"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 73,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Based on a Visual Novel"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 110,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Butlers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 152,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Conflicting Loyalties"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 302,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Genderless Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 253,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Fallen Angels"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 469,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Mysterious Illness"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 288,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Former Hero"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 634,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Shield User"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 502,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Otome Game"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 202,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Disfigurement"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 684,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Student Council"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 496,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Onmyouji"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 677,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Straight Uke"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 552,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Priestesses"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 558,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Prostitutes"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 290,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Friends Become Enemies"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 445,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Models"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 41,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Anti-Magic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 29,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "All-Girls School"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 12,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Drama CD"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 391,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Library"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 866,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Strike the Blood"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 862,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Kirkmanverse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 177,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Dancers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 143,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Collection of Short Stories"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 728,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Ugly Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 619,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Senpai-Kouhai Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 511,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Parasites"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 853,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Lord of the Ring"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 441,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Mismatched Couple"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 367,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Interconnected Storylines"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 438,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Mind Break"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 99,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Bookworm"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 360,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Incubus"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 739,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Valkyries"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 503,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Outcasts"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 295,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Galge"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 817,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Galaxy Wars"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 363,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Inferiority Complex"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 887,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Dragon Raja"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 525,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Photography"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 63,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Autism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 635,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Shikigami"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 489,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Nurses"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 702,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Terrorists"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 479,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Neet"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 626,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Sex Friends"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 636,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Short Story"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 187,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Delusions"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 86,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Bisexual Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 877,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1940s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 488,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Nudity"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 374,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Jiangshi"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 33,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Anal"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 64,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Automatons"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 319,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Grave Keepers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 872,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Final Fantasy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 846,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Donghua"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 744,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Voice Actors"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 430,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Masturbation"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 499,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Orgy"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 326,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Handjob"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 293,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Futanari"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 145,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Coma"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 839,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Magic Knight World"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 869,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "The Eminence in Shadow"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 657,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Sleeping"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 508,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Pacifist Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 308,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "Gladiators"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 133,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Classic"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 876,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1930s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 361,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Indecisive Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 673,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Stockholm Syndrome"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 581,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Reporters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 309,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Glasses-wearing Love Interests"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 77,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "BDSM"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 96,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Body-double"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 317,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Golems"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 868,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Fabulous Beast"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 16,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Manhwa"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 746,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Waiters"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 287,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Forgetful Protagonist"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 676,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Straight Seme"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 512,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Parent Complex"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 32,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "Amusement Park"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 855,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Stand User"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 344,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Hikikomori"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 487,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Non-linear Storytelling"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 602,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Schizophrenia"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 523,
+    "fields": {
+      "section_name": 10,
+      "tag_name": "Phobias"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 375,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Jobless Class"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 62,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Astrologers"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 647,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Sign Language"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 604,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Sculptors"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 345,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Homunculus"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 9,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted from Manhua"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 745,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Voyeurism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 168,
+    "fields": {
+      "section_name": 3,
+      "tag_name": "Cryostasis"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 399,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Long-distance Relationship"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 588,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Reversible Couple"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 874,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1910s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 170,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Cunnilingus"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 82,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Bestiality"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 875,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1920s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 66,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Award-winning Work"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 625,
+    "fields": {
+      "section_name": 7,
+      "tag_name": "Seven Virtues"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 863,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Pirates of Caribbean"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 440,
+    "fields": {
+      "section_name": 11,
+      "tag_name": "Misandry"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 509,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Paizuri"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 504,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Outdoor Intercourse"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 229,
+    "fields": {
+      "section_name": 9,
+      "tag_name": "Editors"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 102,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Breast Fetish"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 743,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Vocaloid"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 873,
+    "fields": {
+      "section_name": 5,
+      "tag_name": "1900s"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 481,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Netorase"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 292,
+    "fields": {
+      "section_name": 1,
+      "tag_name": "Fujoshi"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 714,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Toys"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 18,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Adapted to Visual Novel"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 356,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Imaginary Friend"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 249,
+    "fields": {
+      "section_name": 8,
+      "tag_name": "Exhibitionism"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 376,
+    "fields": {
+      "section_name": 4,
+      "tag_name": "JSDF"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 70,
+    "fields": {
+      "section_name": 2,
+      "tag_name": "Based on a Song"
+    }
+  },
+  {
+    "model": "special.tags",
+    "pk": 494,
+    "fields": {
+      "section_name": 6,
+      "tag_name": "Oneshot"
+    }
+  }
+]

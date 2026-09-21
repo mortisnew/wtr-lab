@@ -1,0 +1,40 @@
+Folder PATH listing for volume New Volume
+Volume serial number is 0000002F D04C:E342
+D:\PROJECTS\WEBNOVELS\FRONTEND\SRC
+³   App.css
+³   App.tsx
+³   index.css
+³   main.tsx
+³   
+ÃÄÄÄassets
+³       hero.png
+³       react.svg
+³       vite.svg
+³       
+ÃÄÄÄcomponents
+³       Header.tsx
+³       NovelCard.tsx
+³       Sidebar.tsx
+³       
+ÃÄÄÄcontext
+³       AuthContext.tsx
+³       
+ÃÄÄÄpages
+³       ChapterReader.tsx
+³       Favorites.tsx
+³       FolderDetail.tsx
+³       Folders.tsx
+³       Genres.tsx
+³       History.tsx
+³       Home.tsx
+³       Login.tsx
+³       NovelDetail.tsx
+³       Novels.tsx
+³       Profile.tsx
+³       Recommendations.tsx
+³       SignUp.tsx
+³       Tags.tsx
+³       
+ÀÄÄÄservices
+        api.ts
+        

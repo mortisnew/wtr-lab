@@ -1,0 +1,79 @@
+[
+  {
+    "model": "special.sectionname",
+    "pk": 1,
+    "fields": {
+      "name": "Protagonist Archetypes"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 2,
+    "fields": {
+      "name": "Adaptations"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 3,
+    "fields": {
+      "name": "Power Systems"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 4,
+    "fields": {
+      "name": "Socio-Political Structures"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 5,
+    "fields": {
+      "name": "Worldbuilding"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 6,
+    "fields": {
+      "name": "Narrative"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 7,
+    "fields": {
+      "name": "Beings & Factions"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 8,
+    "fields": {
+      "name": "Relationship Tropes"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 9,
+    "fields": {
+      "name": "Professional Archetypes"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 10,
+    "fields": {
+      "name": "Tone & Atmosphere"
+    }
+  },
+  {
+    "model": "special.sectionname",
+    "pk": 11,
+    "fields": {
+      "name": "Miscellaneous Narrative Elements"
+    }
+  }
+]
