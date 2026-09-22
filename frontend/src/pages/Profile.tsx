@@ -275,7 +275,7 @@ function Profile() {
                       >
                         <div className="review-card-top">
                           <Link
-                            to={`/novel/${item.novel}`}
+                            to={`/novels/${item.novel}`}
                             className="review-novel-title"
                           >
                             {novelTitles[item.novel] ??

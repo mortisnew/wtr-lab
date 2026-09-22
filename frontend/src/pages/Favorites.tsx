@@ -118,7 +118,7 @@ function Favorites() {
             {favorites.map(({ favorite, novel }) => (
               <Link
                 key={favorite.id}
-                to={`/novel/${novel.id}`}
+                to={`/novels/${novel.id}`}
                 className="favorite-card"
               >
                 <div className="favorite-cover">

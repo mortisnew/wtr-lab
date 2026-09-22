@@ -130,7 +130,7 @@ function ChapterReader() {
 
   const backToNovel = () => {
     if (chapter) {
-      navigate(`/novel/${chapter.novel}`)
+      navigate(`/novels/${chapter.novel}`)
     }
   }
 

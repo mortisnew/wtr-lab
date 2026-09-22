@@ -192,7 +192,7 @@ function Home() {
               {ranking.slice(0, 10).map((novel, index) => (
                 <Link
                   key={novel.id}
-                  to={`/novel/${novel.id}`}
+                  to={`/novels/${novel.id}`}
                   className="home-ranking-card"
                 >
                   <span className={`home-ranking-rank rank-${index + 1}`}>
@@ -254,7 +254,7 @@ function Home() {
               {recentUpdates.slice(0, 10).map((novel) => (
                 <Link
                   key={novel.id}
-                  to={`/novel/${novel.id}`}
+                  to={`/novels/${novel.id}`}
                   className="home-update"
                 >
                   <img src={novel.img} alt={novel.title} />

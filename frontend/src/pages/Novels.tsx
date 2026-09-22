@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import NovelCard from '../components/NovelCard'
 import { getNovels } from '../services/api'
+import { useSearchParams } from 'react-router-dom'
 
 type Novel = {
   id: number
@@ -24,23 +25,25 @@ function Novels() {
   const [page, setPage] = useState(1)
   const [totalPages, setTotalPages] = useState(1)
   const [loading, setLoading] = useState(true)
+  const [searchParams] = useSearchParams()
+  const tag = searchParams.get('tag')
 
-  useEffect(() => {
-    setLoading(true)
+    useEffect(() => {
+      setLoading(true)
 
-    getNovels(page)
-      .then((data: PaginationData) => {
-        setNovels(data.results ?? [])
-        setTotalPages(Math.ceil((data.count ?? 0) / 12))
-      })
-      .catch((error) => {
-        console.error('NOVELS ERROR:', error)
-        setNovels([])
-      })
-      .finally(() => {
-        setLoading(false)
-      })
-  }, [page])
+      getNovels(page, tag ? { tag } : undefined)
+        .then((data: PaginationData) => {
+          setNovels(data.results ?? [])
+          setTotalPages(Math.ceil((data.count ?? 0) / 12))
+        })
+        .catch((error) => {
+          console.error('NOVELS ERROR:', error)
+          setNovels([])
+        })
+        .finally(() => {
+          setLoading(false)
+        })
+    }, [page, tag])
 
   const goToPage = (newPage: number) => {
     if (newPage < 1 || newPage > totalPages) return

@@ -32,6 +32,11 @@ class NovelViewSet(viewsets.ModelViewSet):
                 rating_count=Count('rating_log', distinct=True),
                 average_rating=Avg('rating_log__rating'),
             )
+        elif self.action in ['list']:
+            tag = self.request.query_params.get('tag')
+
+            if tag:
+                queryset = queryset.filter(tags__id=tag).distinct()
 
         return queryset
 

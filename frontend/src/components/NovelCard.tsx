@@ -18,7 +18,7 @@ function NovelCard({
   chapters,
 }: NovelCardProps) {
   return (
-    <Link to={`/novel/${id}`} className="novel-card">
+    <Link to={`/novels/${id}`} className="novel-card">
       <article>
         <div className="novel-card-cover">
           <img

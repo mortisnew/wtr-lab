@@ -14,6 +14,7 @@ import Login from './pages/Login'
 import Profile from './pages/Profile'
 import Signup from './pages/SignUp'
 import ChapterReader from './pages/ChapterReader'
+import Search from './pages/search'
 
 function App() {
   const [sidebarOpen, setSidebarOpen] = useState(false)
@@ -26,8 +27,9 @@ function App() {
 
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/novels" element={<Novels />} />
-        <Route path="/novel/:id" element={<NovelDetail />} />
+        <Route path="/search" element={<Search />} />
+        <Route path="/novel" element={<Novels />} />
+        <Route path="/novels/:id" element={<NovelDetail />} />
         <Route path="/chapter/:id" element={<ChapterReader />} />
         <Route path="/favorites" element={<Favorites />} />
         <Route path="/history" element={<History />} />
@@ -36,6 +38,7 @@ function App() {
         <Route path="/profile" element={<Profile />} />
         <Route path="/folders" element={<Folders />} />
         <Route path="/folders/:id" element={<FolderDetail />}/>
+
       </Routes>
     </AuthProvider>
   )

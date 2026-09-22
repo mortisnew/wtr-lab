@@ -65,6 +65,7 @@ class NovelDetailSerializer(serializers.ModelSerializer):
     tags = TagsSerializer(many=True, read_only=True)
     genre = GenreSerializer(many=True, read_only=True)
     section = SectionNameSerializer(many=True, read_only=True)
+    average_rating = serializers.FloatField(read_only=True)
     class Meta:
         model = Novels
         fields = [
@@ -84,6 +85,7 @@ class NovelDetailSerializer(serializers.ModelSerializer):
             'reader_count',
             'trend_score',
             'rating_log',
+            'average_rating',
         ]
 class ChapterListSerializer(serializers.ModelSerializer):
     class Meta:

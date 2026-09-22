@@ -28,6 +28,7 @@ class TagViewSet(viewsets.ReadOnlyModelViewSet):
     serializer_class = TagsSerializer
     queryset = Tags.objects.all()
 
+
 class FavorViewSet(viewsets.ModelViewSet):
     serializer_class = FavoriteSerializer
     queryset = Favorite.objects.all()

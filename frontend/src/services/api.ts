@@ -287,8 +287,23 @@ export async function register(
 /*
 GET /content/novels/
 */
-export function getNovels(page = 1) {
-  return fetchApi(`/content/novels/?page=${page}`)
+export function getNovels(
+  page = 1,
+  params?: Record<string, string | number>
+) {
+  const query = new URLSearchParams({
+    page: String(page),
+    ...(params
+      ? Object.fromEntries(
+          Object.entries(params).map(([key, value]) => [
+            key,
+            String(value),
+          ])
+        )
+      : {}),
+  })
+
+  return fetchApi(`/content/novels/?${query.toString()}`)
 }
 
 /*
@@ -639,7 +654,7 @@ GET /special/search?q=...
 */
 export function searchNovels(query: string) {
   return fetchApi(
-    `/special/search?q=${encodeURIComponent(query)}`
+    `/special/search/?q=${encodeURIComponent(query)}`
   )
 }
 

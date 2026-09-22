@@ -62,16 +62,23 @@ function Header({ onMenuClick }: HeaderProps) {
   const handleNovelClick = (id: number) => {
     setSearchOpen(false)
     setSearchQuery('')
-    navigate(`/novel/${id}`)
+    navigate(`/novels/${id}`)
   }
 
   const handleSearchKeyDown = (
-    event: React.KeyboardEvent<HTMLInputElement>
-  ) => {
-    if (event.key === 'Escape') {
-      setSearchOpen(false)
+      event: React.KeyboardEvent<HTMLInputElement>
+    ) => {
+      if (event.key === 'Escape') {
+        setSearchOpen(false)
+      }
+
+      if (event.key === 'Enter' && searchQuery.trim()) {
+        setSearchOpen(false)
+        navigate(
+          `/search?q=${encodeURIComponent(searchQuery.trim())}`
+        )
+      }
     }
-  }
 
   return (
     <header className="site-header">
